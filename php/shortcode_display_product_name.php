@@ -1,3 +1,4 @@
+// WC - displayProductName
 function displayProductName($item) {
     $productName = get_the_title($item['id']);
     return $productName;
