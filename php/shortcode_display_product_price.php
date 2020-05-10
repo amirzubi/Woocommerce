@@ -1,3 +1,4 @@
+// WC- displayProductPrice
 function displayProductPrice( $atts ) {
 	$atts = shortcode_atts( array(
 		'id' => null
