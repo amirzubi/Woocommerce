@@ -1,4 +1,4 @@
-// WC- displayProductPrice
+// WC - Add Shortcode - Display Product Price
 function displayProductPrice( $atts ) {
 	$atts = shortcode_atts( array(
 		'id' => null
