@@ -1,3 +1,4 @@
+// WC - Add Shortcode - Display Product Rating
 add_shortcode( 'product_rating', 'displayProductRating' );
 function displayProductRating( $atts ) {
 	// Shortcode attributes
